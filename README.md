@@ -13,9 +13,11 @@ Email:
 <br>
 muscarello.thomas@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomas-Muscarello&hide=stars,issues)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomas-Muscarello&hide=stars,issues&show_icons=true&theme=react)
+)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Muscarello&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Muscarello&layout=compact&show_icons=true&theme=react)
+)]
 
 
 
